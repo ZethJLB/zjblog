@@ -24,6 +24,5 @@ categories:
 tags:
   - Python
   - Github
-cover: false
 draft: false
 ---
