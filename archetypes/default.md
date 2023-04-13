@@ -9,6 +9,5 @@ categories:
 tags:
   - tag1
   - tag2
-cover: "path/to/featured/image"
 draft: false
 ---
